@@ -1,4 +1,6 @@
 [mail]: mailto:contact@reimer.software
+[cla]: https://gist.github.com/heinrichreimer/f0c67749644175724f1c47d4fe53ba7f
+[cla-sign]: https://cla-assistant.io/reimersoftware/
 
 # Contributing
 
@@ -12,6 +14,10 @@ For that, this is what we recommend:
 1. [Code](#code)!
 1. [Test](#test).
 1. [Send](#send) a PR.
+
+## Code of Conduct
+
+Help us keep open source projects open and inclusive. Please read and follow our [Code of Conduct](/CODE_OF_CONDUCT.md).
 
 ## Look
 
@@ -69,6 +75,9 @@ During the process, we will take a look at your contributions and make comments,
 ask questions and suggest different approaches. 
 Even though the reviewer strives to be polite, don't take a possible criticism personally.
 After all, we'd really love to get your contribution!
+
+Because of legal reasons, all contributors must [sign][cla-sign] our [Contributor License Agreement][cla].
+It's a quick, automated process, we promise! Watch for messages from our CLA bot.
 
 ## Thanks!
 
